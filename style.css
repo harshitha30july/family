@@ -1,0 +1,17 @@
+body{
+    background-color:yellow;
+    color: red;
+}
+.heading{
+    width: 80%;
+    font-size: 25px;
+}
+.object_names{
+    font-size: 18px;
+    color: saddlebrown;
+}
+#camera {
+    width:350px;
+    height: 300px;
+    border: dashed 2px black;
+}
